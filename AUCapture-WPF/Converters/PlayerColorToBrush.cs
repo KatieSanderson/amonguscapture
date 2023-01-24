@@ -33,11 +33,20 @@ namespace AUCapture_WPF.Converters
             { PlayerColor.Chocolate,  new SolidColorBrush(Color.FromRgb(71, 62, 59))},
             { PlayerColor.SkyBlue,    new SolidColorBrush(Color.FromRgb(72, 146, 255))},
             { PlayerColor.Beige,      new SolidColorBrush(Color.FromRgb(255, 230, 184))},
-            { PlayerColor.HotPink,    new SolidColorBrush(Color.FromRgb(253, 76, 255))},
+            { PlayerColor.Magenta,    new SolidColorBrush(Color.FromRgb(253, 76, 255))},
             { PlayerColor.Turquoise,  new SolidColorBrush(Color.FromRgb(72, 255, 200))},
             { PlayerColor.Lilac,      new SolidColorBrush(Color.FromRgb(201, 179, 255))},
             { PlayerColor.Olive,      new SolidColorBrush(Color.FromRgb(110, 132, 39))},
-            { PlayerColor.Azure,      new SolidColorBrush(Color.FromRgb(11, 185, 255))}
+            { PlayerColor.Azure,      new SolidColorBrush(Color.FromRgb(11, 185, 255))},
+            
+            // change to correct colors
+            { PlayerColor.Plum,       new SolidColorBrush(Color.FromRgb(11, 185, 255))},
+            { PlayerColor.Jungle,     new SolidColorBrush(Color.FromRgb(11, 185, 255))},
+            { PlayerColor.Mint,       new SolidColorBrush(Color.FromRgb(11, 185, 255))},
+            { PlayerColor.Chartreuse, new SolidColorBrush(Color.FromRgb(11, 185, 255))},
+            { PlayerColor.Macau,      new SolidColorBrush(Color.FromRgb(11, 185, 255))},
+            { PlayerColor.Tawny,      new SolidColorBrush(Color.FromRgb(11, 185, 255))},
+            { PlayerColor.Gold,       new SolidColorBrush(Color.FromRgb(11, 185, 255))}
 
         };
 
@@ -88,11 +97,19 @@ namespace AUCapture_WPF.Converters
             { PlayerColor.Chocolate,  new SolidColorBrush(Color.FromRgb(71, 62, 59))},
             { PlayerColor.SkyBlue,    new SolidColorBrush(Color.FromRgb(72, 146, 255))},
             { PlayerColor.Beige,      new SolidColorBrush(Color.FromRgb(255, 230, 184))},
-            { PlayerColor.HotPink,    new SolidColorBrush(Color.FromRgb(253, 76, 255))},
+            { PlayerColor.Magenta,    new SolidColorBrush(Color.FromRgb(253, 76, 255))},
             { PlayerColor.Turquoise,  new SolidColorBrush(Color.FromRgb(72, 255, 200))},
             { PlayerColor.Lilac,      new SolidColorBrush(Color.FromRgb(201, 179, 255))},
             { PlayerColor.Olive,      new SolidColorBrush(Color.FromRgb(110, 132, 39))},
-            { PlayerColor.Azure,      new SolidColorBrush(Color.FromRgb(11, 185, 255))}
+            { PlayerColor.Azure,      new SolidColorBrush(Color.FromRgb(11, 185, 255))},
+            // change to correct colors
+            { PlayerColor.Plum,       new SolidColorBrush(Color.FromRgb(11, 185, 255))},
+            { PlayerColor.Jungle,     new SolidColorBrush(Color.FromRgb(11, 185, 255))},
+            { PlayerColor.Mint,       new SolidColorBrush(Color.FromRgb(11, 185, 255))},
+            { PlayerColor.Chartreuse, new SolidColorBrush(Color.FromRgb(11, 185, 255))},
+            { PlayerColor.Macau,      new SolidColorBrush(Color.FromRgb(11, 185, 255))},
+            { PlayerColor.Tawny,      new SolidColorBrush(Color.FromRgb(11, 185, 255))},
+            { PlayerColor.Gold,       new SolidColorBrush(Color.FromRgb(11, 185, 255))}
 
         };
 

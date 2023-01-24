@@ -573,31 +573,53 @@ namespace AUCapture_WPF {
                     OutputCode = Color.LightCoral;
                     break;
                 case PlayerColor.Watermelon:
-                    OutputCode = Color.FromRgb(184, 64, 78);
+                    OutputCode = Color.LightCoral;
                     break;
                 case PlayerColor.Chocolate:
-                    OutputCode = Color.FromRgb(71, 62, 59);
+                    OutputCode = Color.LightCoral;
                     break;
                 case PlayerColor.SkyBlue:
-                    OutputCode = Color.FromRgb(72, 146, 255);
+                    OutputCode = Color.LightCoral;
                     break;
                 case PlayerColor.Beige:
-                    OutputCode = Color.FromRgb(255, 230, 184);
+                    OutputCode = Color.LightCoral;
                     break;
-                case PlayerColor.HotPink:
-                    OutputCode = Color.FromRgb(253, 76, 255);
+                case PlayerColor.Magenta:
+                    OutputCode = Color.LightCoral;
                     break;
                 case PlayerColor.Turquoise:
-                    OutputCode = Color.FromRgb(72, 255, 200);
+                    OutputCode = Color.LightCoral;
                     break;
                 case PlayerColor.Lilac:
-                    OutputCode = Color.FromRgb(201, 179, 255);
+                    OutputCode = Color.LightCoral;
                     break;
                 case PlayerColor.Olive:
-                    OutputCode = Color.FromRgb(110, 132, 39);
+                    OutputCode = Color.LightCoral;
                     break;
                 case PlayerColor.Azure:
-                    OutputCode = Color.FromRgb(11, 185, 255);
+                    OutputCode = Color.LightCoral;
+                    break;
+                // change to correct colors
+                case PlayerColor.Plum:
+                    OutputCode = Color.LightCoral;
+                    break;
+                case PlayerColor.Jungle:
+                    OutputCode = Color.LightCoral;
+                    break;
+                case PlayerColor.Mint:
+                    OutputCode = Color.LightCoral;
+                    break;
+                case PlayerColor.Chartreuse:
+                    OutputCode = Color.LightCoral;
+                    break;
+                case PlayerColor.Macau:
+                    OutputCode = Color.LightCoral;
+                    break;
+                case PlayerColor.Tawny:
+                    OutputCode = Color.LightCoral;
+                    break;
+                case PlayerColor.Gold:
+                    OutputCode = Color.LightCoral;
                     break;
             }
 

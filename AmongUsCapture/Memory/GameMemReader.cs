@@ -501,11 +501,18 @@ namespace AmongUsCapture {
         Chocolate = 19,
         SkyBlue = 20,
         Beige = 21,
-        HotPink = 22,
+        Magenta = 22,
         Turquoise = 23,
         Lilac = 24,
         Olive = 25,
-        Azure = 26
+        Azure = 26,
+        Plum = 27,
+        Jungle = 28,
+        Mint = 29,
+        Chartreuse = 30,
+        Macau = 31,
+        Tawny = 32,
+        Gold = 33
     }
 
     public enum PlayRegion {
